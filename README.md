@@ -1,2 +1,1 @@
-# demo_git
-Une démo de git.
+# Une nouvelle version du push de GIt
